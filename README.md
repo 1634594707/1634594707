@@ -1,147 +1,158 @@
-🚀 专业AI开发者 | 温州大学人工智能专业
+<!--
+ * @Author: royal-killer 1581279688@qq.com
+ * @Date: 2025-05-11 18:14:48
+ * @LastEditors: royal-killer 1581279688@qq.com
+ * @LastEditTime: 2025-05-11 18:33:35
+ * @FilePath: \bigorange18\README.md
+ * @Description: 
+ * 
+ * Copyright (c) 2025 by ${git_name_email}, All Rights Reserved. 
+-->
+<!-- <h1 align="center">Hi 👋, I'm Orange 👨‍💻</h1> -->
 
-https://via.placeholder.com/1200x400/2D3748/FFFFFF?text=AI+Developer+%7C+Machine+Learning+%7C+Deep+Learning
 
-👋 关于我
+<!-- 个人简介-->
+<div align="center"><a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=屏幕前的生活，不是你我的全部;I'm+big-orange+Welcome+!&center=true&size=27"> </a> </div>
+<h3 align="center">A passionate AI algorithm engineer from Shanghai China</h3>
 
-```python
-class AIStudent:
-    def __init__(self):
-        self.name = "【你的姓名】"
-        self.education = "温州大学 - 人工智能专业 (大四)"
-        self.location = "杭州淳安县"
-        self.interests = [
-            "深度学习",
-            "自然语言处理", 
-            "计算机视觉",
-            "大模型应用"
-        ]
-        
-    def current_focus(self):
-        return {
-            "🎯 主要目标": "考研深造 + AI就业准备",
-            "💻 每日学习": "6小时考研 + 3小时AI技能",
-            "🏆 近期成就": "参加浙江省人工智能大赛"
-        }
-        
-    def say_hi(self):
-        return "正在寻找AI领域的实习和科研机会！"
+<br><br>
+<!-- Star 2023-->
+<div align="center"> <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/star.png?raw=true">
 
-me = AIStudent()
-```
+<!-- 数据展示-主题&theme=radical-->
+<img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_left.png?raw=true" />&emsp;
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bigorange18&theme=radical&hide_border=true" />
+&emsp;<img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_right.png?raw=true" />
 
-🛠 技术栈
+<!-- 展示总贡献量，输出图片颜色不一样-->
+<!-- <div align="center">
+	<img  src="https://streak-stats.demolab.com/?user=bigorange18&theme=gruvbox&border_radius=20&locale=zh_Hans&date_format=%5BY.%5Dn.j" /><br>
+</div> -->
 
-编程语言
+<div align="center">
+  <!-- profile logo 个人资料徽标 -->
+  <div align="center">
+    <a href="https://twitter.com/chenorange2219/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+    <a href="https://www.youtube.com/@chenorange2219"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
+    <a href="https://box.sunguoqi.com/weixin_mp"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href="https://space.bilibili.com/321166054/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://blog.csdn.net/royal_killer?spm=1011.2124.3001.5343/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+    <a href="https://www.zhihu.com/people//ha-lou-kti-44-92/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+    <!-- visitor statistics logo 访问量统计徽标 -->
+    <img src="https://komarev.com/ghpvc/?username=bigorange18&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  </div>
+	
+---
+<!--
+**shihuili1218/shihuili1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
 
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<a href="https://img-blog.csdnimg.cn/2019122617442217.gif">
+  <img align="right"  alt="GIF" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="150"/>
+</a>
+<div align="left">
+	
+<!-- ### Hello World!  I am <b>chenorange<a target="_blank" href="javascript:;"></a></b> -->
+- :hearts: 富强、民主、文明、和谐: 是从价值目标层面对社会主义核心价值观基本理念的凝练
+  
+- :1st_place_medal: 自由、平等、公正、法治: 是我们党矢志不渝、长期实践的核心价值理念
 
-AI/ML框架
+- :sun_with_face: 爱国、敬业、诚信、友善: 个人行为层面对社会主义核心价值观基本理念的凝练
 
-https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
-https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
-https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
 
-开发工具
+ 
+</div>
 
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+</picture>
 
-📊 GitHub数据
+</div>
 
-https://github-readme-stats.vercel.app/api?username=【你的用户名】&show_icons=true&theme=radical
+---
+<!-- GitHub 奖杯🏆 -->
+<div align="center">
+	<img  src="https://github-profile-trophy.vercel.app/?username=bigorange18&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
+</div>
+---
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=【你的用户名】&layout=compact&theme=radical
-
-🏆 项目集锦
-
-🔥 重点项目
-
-浙江省人工智能大赛项目
-
-正在进行中 - 预计2024年12月完成
-
-```markdown
-- 🎯 **目标**: 解决【简要描述赛题问题】
-- 🤖 **技术**: PyTorch, Transformers, 数据增强
-- 📈 **成果**: 目前在全省【排名/百分比】
-- 🔗 **代码**: [私有仓库 - 比赛结束后公开]
-```
-
-智能文档问答系统
-
-基于RAG架构的AI应用
-
-https://img.shields.io/badge/Python-3.8+-blue
-https://img.shields.io/badge/LangChain-0.1-green
-https://img.shields.io/badge/OpenAI-API-purple
-
-核心功能:
-
-· ✅ 多格式文档解析 (PDF, Word, TXT)
-· ✅ 向量检索与语义搜索
-· ✅ 对话历史管理
-· 🚧 部署优化 (进行中)
-
-🔗 查看项目
-
-深度学习模型复现系列
-
-经典论文复现与改进
-
-模型 状态 精度 备注
-ResNet ✅ 完成 95.2% 添加注意力机制
-Transformer ✅ 完成 - 中英文翻译任务
-BERT 🚧 进行中 - 预训练优化
-
-📝 最新动态
-
-<!-- 你需要在.github/目录下创建blog-posts.md文件来管理这些内容 -->
-
-🎯 当前学习重点
-
-· 考研科目: 数据结构、操作系统、计算机网络
-· AI技能: 大模型应用开发、模型部署优化
-· 比赛准备: 浙江省人工智能大赛决赛冲刺
-
-📚 技术博客
-
-<!-- 博客文章列表，需要你在.github/目录下创建blog-posts.md -->
-
-· 如何平衡考研与项目开发
-· RAG系统开发实战经验
-· 浙江省AI大赛备战心得
-
-📫 联系我
-
-https://img.shields.io/badge/Email-【你的邮箱】-blue?style=flat-square&logo=gmail
-https://img.shields.io/badge/LinkedIn-连接-blue?style=flat-square&logo=linkedin
-https://img.shields.io/badge/知乎-关注-blue?style=flat-square&logo=zhihu
+<!-- <div align="center"> <img src="https://metrics.lecoq.io/bigorange18?template=classic&config.timezone=Asia%2FShanghai"> </div> -->
 
 ---
 
-⚡ 每日编码，持续学习，打造卓越的AI职业生涯！
+### About My Github
+<div align="center">
+  <table style="width:100%;">
+    <tr>
+      <!-- 第一个图片 -->
+      <td align="center">
+	  <img height='160' src="https://github-readme-stats.vercel.app/api?username=bigorange18&show_icons=true&theme=tokyonight" align="center" />
+       <!-- <img height='150' weight='100' src="https://github-readme-stats.vercel.app/api?username=bigorange18&hide_title=true&show_icons=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> -->
+      </td>
+      <!-- 第二个图片 -->
+      <td align="center">
+	<img height='160' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigorange18&hide=html,css,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Batchfile&layout=compact&langs_count=8&theme=tokyonight" />
+        <!-- <img height='150' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigorange18&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> -->
+      </td>
+    </tr>
+    <!-- 第三个图片 -->
+    <tr>
+      <td colspan="2" align="center">
+        <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=bigorange18&theme=github-compact&hide_border=true&area=true" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-🛠 设置说明
 
-要使用这个README模板：
+<!-- GitHub 数据统计 -->
+<!--
+<div align="left">
+<img align="center" height="117px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bigorange18&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<!-- <img align="center" height="100px" src="https://github-readme-stats.vercel.app/api?username=bigorange18&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> -->
 
-1. 替换占位符：
-   · 将 【你的姓名】、【你的用户名】 等替换为你的实际信息
-   · 上传banner图片到你的仓库
-2. 启用GitHub Stats：
-   · 确保你的仓库是public的
-   · 安装 GitHub Readme Stats
-3. 添加博客功能：
-   · 在 .github/ 目录下创建 blog-posts.md
-   · 按照模板格式添加你的博客文章
-4. 自定义功能：
-   · 根据你的实际项目修改内容
-   · 添加你的技术栈和项目链接
+<!--
+<img align="center" height="117px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bigorange18&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
+</div> -->
 
-这个README模板突出了你的AI专业背景、项目经验和学习状态，适合向潜在雇主或导师展示你的技术能力。记得定期更新你的项目进展和学习动态！
+<!-- <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=bigorange18&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div> -->
+
+
+<!-- <div align="left">
+  <img height='160' src="https://github-readme-stats.vercel.app/api?username=bigorange18&show_icons=true&theme=tokyonight" align="center" />
+  <img height='160' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigorange18&hide=html,css,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Batchfile&layout=compact&langs_count=8&theme=tokyonight" align="center" />
+</div>  
+<div align="center">
+    <img   width="400" height="180" src="https://github-readme-stats.vercel.app/api?username=bigorange18&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+    <img width="350" height="180" height='120' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigorange18&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div> -->
+
+
+<!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=bigorange18&theme=xcode" /> </div> -->
+<!-- <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=bigorange18" /> </div>  -->
+
+<H2>Favorite❤️Movie</H2>
+<div align="center">
+<img height="200" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/Vlog_a.gif?raw=true">
+</div>
+
+<!-- https://github.com/kyechan99/capsule-render -->
+<p align="center">
+<img  width:100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
+</p>
+
+
