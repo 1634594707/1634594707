@@ -103,7 +103,7 @@
   
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/1634594707)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1634594707@qq.com)
-[![个人主页](https://img.shields.io/badge/-个人主页-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://193853.xyz/)
+[![个人主页](https://img.shields.io/badge/-个人主页-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://1634594707.github.io/homepage/)
 
 </div>
 
@@ -111,7 +111,7 @@
 
 <!-- 访问统计 -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=1634594707&label=访问量&color=58A6FF&style=flat-square" alt="访问量" />
+  <img src="https://komarev.com/ghpvc/?username=1634594707&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="访问量" />
 </div>
 
 <br>
@@ -119,7 +119,7 @@
 <!-- 底部 -->
 <div align="center">
   
-### � 座右铭
+### 座右铭
 
 *"注重代码质量与系统可维护性，在实战中不断成长"*
 
