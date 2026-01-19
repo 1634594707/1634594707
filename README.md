@@ -1,6 +1,6 @@
 <!-- 顶部欢迎横幅 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=江皓铖&fontSize=70&fontAlignY=35&desc=后端开发工程师%20·%20人工智能专业&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aplicity&fontSize=70&fontAlignY=35&desc=后端开发工程师%20·%20人工智能专业&descAlignY=55&descSize=20" />
 </div>
 
 <br>
@@ -114,7 +114,7 @@
   
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/1634594707)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1634594707@qq.com)
-[![个人主页](https://img.shields.io/badge/-个人主页-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/1634594707/homepage)
+[![个人主页](https://img.shields.io/badge/-个人主页-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://1634594707.github.io/homepage/)
 
 </div>
 
