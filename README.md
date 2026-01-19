@@ -85,17 +85,6 @@
 
 <br>
 
-<!-- 贡献蛇 -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1634594707/1634594707/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1634594707/1634594707/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/1634594707/1634594707/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br>
-
 <!-- 项目展示 -->
 <h2 align="center">🌟 精选项目</h2>
 
@@ -122,8 +111,7 @@
 
 <!-- 访问统计 -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=1634594707&label=访问量&color=58A6FF&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/1634594707?label=关注者&style=flat-square&color=58A6FF" />
+  <img src="https://komarev.com/ghpvc/?username=1634594707&label=访问量&color=58A6FF&style=flat-square" alt="访问量" />
 </div>
 
 <br>
