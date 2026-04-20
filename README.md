@@ -96,7 +96,7 @@
 
 ### 🌟 精选项目
 
-<a href="[[https://github.com/1634594707/Codefolio]">
+<a href="https://github.com/1634594707/Codefolio">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=1634594707&repo=Codefolio&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
 </a>
 
